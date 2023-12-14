@@ -11,6 +11,8 @@ https://github.com/steinbergmedia/bravura
 NotationStudio holds the basic features of a musical composition program but to a limited extent, from writing as short as sixteenth notes to configuring the largest time signatures.
 
 ### Create
+To write music on NotationStudio, users must click on the desired height on the five-line staff, and Voila! Your note is placed!
+
 The following musical elements are available for writing and editing in NotationStudio:
 1) Notes and Rests (including dotted variations)
    - Whole
@@ -36,6 +38,12 @@ After composing desired music, this application allows the user to play back the
 ## Comprehend
 NotationStudio also provides NoteAnalyzer, a miniature program that gives the user a note to drag up/down the five-line staff. The note's frequency, as well as its respective major and minor root scales, are provided.
 This allows for the users education on music theory to flourish!
+
+## Download
+Wondering how to download and and start composing on NotationStudio? It's simple! Click on the 'Releases' tab of this repository, and download the zipped folder of the release of your choice. Thank you for the interest in the program.
+
+   Kind regards,
+   Michael Tolmajian
 
 ## Trivia
 1) NotationStudio took two months to create.
