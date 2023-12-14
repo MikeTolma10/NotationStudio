@@ -39,6 +39,10 @@ After composing desired music, this application allows the user to play back the
 NotationStudio also provides NoteAnalyzer, a miniature program that gives the user a note to drag up/down the five-line staff. The note's frequency, as well as its respective major and minor root scales, are provided.
 This allows for the users education on music theory to flourish!
 
+## Demonstration
+https://youtu.be/-glrntEY-QM?si=rOPBqxUi1UFhNypL
+The video above demonstrates how to use NotationStudio.
+
 ## Download
 Wondering how to download and and start composing on NotationStudio? It's simple! Click on the 'Releases' tab of this repository, and download the zipped folder of the release of your choice. Thank you for the interest in the program.
 
