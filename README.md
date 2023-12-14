@@ -50,7 +50,7 @@ Wondering how to download and start composing on NotationStudio? It's simple! Cl
    Michael Tolmajian
 
 ## Trivia
-1) NotationStudio took two months to create.
-2) The program was a term project for a musical general education course.
-3) Notes and rests were drawn by Michael Tolmajian, himself!
+1) NotationStudio took two months to create the first release.
+2) The program was a term project for a music-major general education course.
+3) Notes and rests were drawn by Michael, himself!
 4) Math, math, math, and even more math was used for note placement and playback!
