@@ -42,7 +42,7 @@ This allows for the users education on music theory to flourish!
 ## Download
 Wondering how to download and and start composing on NotationStudio? It's simple! Click on the 'Releases' tab of this repository, and download the zipped folder of the release of your choice. Thank you for the interest in the program.
 
-   Kind regards,
+   Kind regards,  
    Michael Tolmajian
 
 ## Trivia
