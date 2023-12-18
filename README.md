@@ -1,5 +1,5 @@
 # NotationStudio
-Michael Tolmajian created NotationStudio to support his passion for both music and software engineering. This program was designed using Microsoft's C# using Visual Studio Enterprise. 
+Michael Tolmajian created NotationStudio, using Microsoft's C# and Visual Studio Enterprise, to support his passion for both music theory and software engineering.
 
 ![NotationPreview](https://github.com/MikeTolma10/NotationStudio/assets/112536402/672f8a08-1271-459c-b08f-a7bb464124e0)  
 
